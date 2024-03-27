@@ -1,3 +1,6 @@
+# update and install git
+sudo apt update && sudo apt install git -y
+
 # clone the repos
 git clone https://github.com/keerthivasan0322/Adafruit_CircuitPython_DHT.git
 
